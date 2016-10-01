@@ -4039,6 +4039,11 @@
       "from": "mkdirp@>=0.5.1 <0.6.0",
       "resolved": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
     },
+    "mojibaka": {
+      "version": "0.0.1",
+      "from": "../../../mojibaka",
+      "resolved": "file:../../../mojibaka"
+    },
     "moment": {
       "version": "2.15.0",
       "from": "moment@2.15.0",
